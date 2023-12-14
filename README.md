@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aykhan Ahmadli</h1>
 <h3 align="center">Highly skilled and driven software engineer with 3 years of experience, specializing in full-stack development and a passion for creating innovative solutions.</h3>
 
-- 🔭 I’m currently working at Masslight and workin on **yazım.az** as a side project with a fellow developer.
+- 🔭 I’m currently working at Masslight and working on **yazım.az** as a side project with a fellow developer.
 
 - 🌱 I’m currently learning **Node.js**
 
