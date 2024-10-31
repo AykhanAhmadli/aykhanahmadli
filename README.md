@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aykhan Ahmadli</h1>
-<h3 align="center">Highly skilled and driven software engineer with 3 years of experience, specializing in full-stack development and a passion for creating innovative solutions.</h3>
+<h3 align="center">Trying to learn new stuff everyday, I am a software engineer with 3 years of experience, specializing in full-stack development</h3>
 
 - 🔭 I’m currently working on <span><a href="https://github.com/masslight/ottehr" target="_blank" rel="noreferrer"> Ottehr</span> at Masslight.
 
